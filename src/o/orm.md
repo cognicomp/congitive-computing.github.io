@@ -1,0 +1,13 @@
+# orm
+
+ORM stands for Object-Relational Mapping. It is a programming technique for converting data between incompatible type systems using object-oriented programming languages. This creates a "virtual object database" that can be used from within the programming language. It is used to manipulate and access the database using the object-oriented paradigm. Examples of ORM tools include Hibernate in Java, Entity Framework in .NET, and Sequelize in Node.js. ORM provides a way to interact with your database, like you would with SQL. In other words, it allows you to control and manage your database using your preferred programming language. This can simplify the process of writing database queries, as you don't need to write raw SQL statements. 
+
+ORM can also help to make your application more scalable and maintainable. It does this by providing a high-level abstraction upon a relational database that allows a developer to write Python code instead of SQL to create, read, update and delete data and schemas in their database. Developers can use the programming language they are comfortable with to work with databases instead of writing SQL statements or stored procedures.
+
+The main advantage of ORM is that it increases productivity by reducing the amount of code needed to perform database operations. It also provides a more intuitive way to interact with your data, as you can interact with your data as objects (following the object-oriented programming paradigm) rather than dealing with tables and SQL. 
+
+However, ORM also has its disadvantages. It can lead to performance issues if not used properly, as it might generate inefficient SQL queries. It can also make it harder to perform complex queries and stored procedures that can be easily done with SQL. Furthermore, ORM can sometimes lead to a loss of flexibility, as it may not support all the features of a database system. It can also introduce complexity, as developers need to learn how to use the ORM system effectively. 
+
+Despite these potential drawbacks, ORM is widely used in many modern web and enterprise applications due to its benefits in productivity, maintainability, and code reusability. It is a powerful tool that can greatly simplify the process of working with databases in object-oriented programming languages. 
+
+In conclusion, ORM is a technique that maps data from an object-oriented programming language to a relational database. It provides a high-level abstraction that allows developers to interact with databases using their preferred programming language. While it has its disadvantages, it can greatly increase productivity and maintainability when used properly.

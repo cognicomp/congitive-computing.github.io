@@ -1,0 +1,11 @@
+{
+  "name": "congitive-computing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:congitive-computing/congitive-computing.github.io.git",
+  "author": "congitive-computing <dev@null>",
+  "license": "MIT",
+  "dependencies": {
+    "bookmarklet": "^3.0.0"
+  }
+}
